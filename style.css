@@ -37,10 +37,6 @@ p {
   text-justify: inter-word;
 }
 
-/***************************************************
-    Create A Dark/Light Mode Switch with CSS Variables
-    Source: https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
-***************************************************/
 [data-theme="dark"] {
   --primary-color: white;
   --secondary-color: var(--green-color);
@@ -233,10 +229,6 @@ figure:hover {
   filter: grayscale(0);
 }
 
-/***************************************************
-    Responsive Framework
-    https://codepen.io/HikwaMehluli/full/qeNOVv
-***************************************************/
 .the-grid-section {
   max-width: 1500px;
   margin: 0 auto;
