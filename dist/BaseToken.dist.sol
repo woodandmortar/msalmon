@@ -1836,7 +1836,7 @@ abstract contract AccessControl is Context {
     }
 }
 
-// File: @vittominacori/erc20-token/contracts/access/Roles.sol
+// File: @woodandmortar/erc20-token/contracts/access/Roles.sol
 
 pragma solidity ^0.6.0;
 
@@ -1862,7 +1862,7 @@ contract Roles is AccessControl {
     }
 }
 
-// File: @vittominacori/erc20-token/contracts/ERC20Base.sol
+// File: @woodandmortar/erc20-token/contracts/ERC20Base.sol
 
 pragma solidity ^0.6.0;
 

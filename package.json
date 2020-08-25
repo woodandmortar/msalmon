@@ -81,6 +81,6 @@
     "web3": "^1.2.11"
   },
   "dependencies": {
-    "@vittominacori/erc20-token": "1.1.0"
+    "@woodandmortar/erc20-token": "1.1.0"
   }
 }
