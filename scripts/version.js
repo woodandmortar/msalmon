@@ -6,7 +6,7 @@
 const fs = require('fs');
 const cp = require('child_process');
 
-const pkg = require('../package.json');
+const pkg = require('../composer.json');
 const ethpm = require('../ethpm.json');
 
 ethpm.version = pkg.version;
