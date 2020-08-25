@@ -16,7 +16,7 @@ DApp source here [https://github.com/woodandmortar/msalmon/tree/dapp](https://gi
 
 ## Try it
 
-[https://github.com/woodandmortar/msalmon](https://github.com/woodandmortar/msalmon)
+[https://woodandmortar.github.io/erc20-generator](https://woodandmortar.github.io/erc20-generator)
 
 
 ## Development
